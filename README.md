@@ -1,5 +1,9 @@
 # Diabetes Companion - An AI-powered diabetes management assistant
 
+## Overview
+
+Diabetes Companion is an AI-driven platform designed to offer personalized support and education for individuals managing diabetes. By leveraging sophisticated AI agents, Diabetes Companion provides an empathetic, adaptive, and informative approach to aid in diabetes management, lifestyle adjustment, and medication adherence. 
+
 Diabetes Companion is an AI-powered chatbot and personal assistant designed to help people manage their diabetes. It features:
 
 - A conversational chatbot interface that allows natural dialogs and personalized conversations.
@@ -8,12 +12,6 @@ Diabetes Companion is an AI-powered chatbot and personal assistant designed to h
 - A transparent approach focused on the user's needs above all else, with ongoing improvements driven by user feedback.
 
 Diabetes Companion represents an innovative and ethical application of AI technology to address the multifaceted challenges of diabetes management. The chatbot interface combined with personalized and adaptive ML models work together to provide users with an AI assistant that feels natural, empathetic, and helpful in managing their diabetes.
-
-# Diabetes Companion: Your Path to Wellness
-
-## Overview
-
-Diabetes Companion is an AI-driven platform designed to offer personalized support and education for individuals managing diabetes. By leveraging sophisticated AI agents, Diabetes Companion provides an empathetic, adaptive, and informative approach to aid in diabetes management, lifestyle adjustment, and medication adherence. 
 
 Key Features
 
