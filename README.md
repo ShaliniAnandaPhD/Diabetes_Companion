@@ -1,6 +1,6 @@
 # Fit Buddy
 
-Welcome to Slim Buddy, your intelligent fitness companion! Fit Buddy integrates data from your fitness tracker into Google Colab for comprehensive analysis, helping you set achievable fitness goals with the guidance of OpenAI's assistant. Additionally, Slim Buddy utilizes the MultiON API to provide tailored recommendations for restaurants and fitness classes in your area that align with your fitness and dietary goals.
+Welcome to Fit Buddy, your intelligent fitness companion! Fit Buddy integrates data from your fitness tracker into Google Colab for comprehensive analysis, helping you set achievable fitness goals with the guidance of OpenAI's assistant. Additionally, Fit Buddy utilizes the MultiON API to provide tailored recommendations for restaurants and fitness classes in your area that align with your fitness and dietary goals.
 
 ## Features
 
@@ -13,7 +13,7 @@ Welcome to Slim Buddy, your intelligent fitness companion! Fit Buddy integrates 
 1. **Clone the Repository**: Get the Slim Buddy code on your machine.
 
    ```bash
-   git clone https://github.com/yourusername/slimbuddy.git
+   git clone https://github.com/yourusername/fitbuddy.git
    ```
 
 2. **Install Required Libraries**: Set up your environment with the necessary dependencies.
@@ -27,12 +27,12 @@ Welcome to Slim Buddy, your intelligent fitness companion! Fit Buddy integrates 
 4. **Launch Slim Buddy**: Run the main application.
 
    ```bash
-   python slimbuddy.py
+   python grocery.py
    ```
 
 5. **Set Your Goals**: Use the OpenAI-powered interface to establish your fitness and nutrition objectives.
 
-6. **Explore Local Options**: Receive recommendations for local restaurants and fitness classes from the MultiON API, specifically chosen to support your goals.
+6. **Explore Local Options**: Let MultiOn shop for you and save the meals to your calendar for meal prep.
 
 ## How Fit Buddy Works
 
