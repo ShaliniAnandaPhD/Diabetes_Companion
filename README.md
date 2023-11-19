@@ -40,17 +40,10 @@ Welcome to Slim Buddy, your intelligent fitness companion! Slim Buddy integrates
 - **Goal Setting with AI**: OpenAI Assistant assists in setting realistic, personalized goals based on your data and preferences.
 - **Local Recommendations via MultiON API**: MultiON API is used to identify and list suitable restaurants and fitness classes in your vicinity that align with your dietary needs and workout preferences.
 
-## Contributing
-
-Contributions to Slim Buddy are always welcome! Feel free to suggest improvements, report issues, or submit pull requests.
 
 ## License
 
 Slim Buddy is made available under the [MIT License](LICENSE).
-
-## Support
-
-For any assistance, contact us at [support@slimbuddy.com](mailto:support@slimbuddy.com) or through our GitHub issues page.
 
 ## Disclaimer
 
