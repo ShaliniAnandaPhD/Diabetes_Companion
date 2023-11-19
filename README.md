@@ -1,6 +1,6 @@
-# Slim Buddy
+# Fit Buddy
 
-Welcome to Slim Buddy, your intelligent fitness companion! Slim Buddy integrates data from your fitness tracker into Google Colab for comprehensive analysis, helping you set achievable fitness goals with the guidance of OpenAI's assistant. Additionally, Slim Buddy utilizes the MultiON API to provide tailored recommendations for restaurants and fitness classes in your area that align with your fitness and dietary goals.
+Welcome to Slim Buddy, your intelligent fitness companion! Fit Buddy integrates data from your fitness tracker into Google Colab for comprehensive analysis, helping you set achievable fitness goals with the guidance of OpenAI's assistant. Additionally, Slim Buddy utilizes the MultiON API to provide tailored recommendations for restaurants and fitness classes in your area that align with your fitness and dietary goals.
 
 ## Features
 
@@ -34,7 +34,7 @@ Welcome to Slim Buddy, your intelligent fitness companion! Slim Buddy integrates
 
 6. **Explore Local Options**: Receive recommendations for local restaurants and fitness classes from the MultiON API, specifically chosen to support your goals.
 
-## How Slim Buddy Works
+## How Fit Buddy Works
 
 - **Data Analysis and Insights**: Your fitness tracker data is analyzed in Google Colab to provide insights and track progress.
 - **Goal Setting with AI**: OpenAI Assistant assists in setting realistic, personalized goals based on your data and preferences.
